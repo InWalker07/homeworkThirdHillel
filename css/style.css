@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px
+}
+
+.flex-container > div {
+    color: white;
+    width: 450px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+
+.color1 {
+    background-color: orangered;
+}
+
+.color2 {
+    background-color: greenyellow;
+}
+
+.color3 {
+    background-color: blue;
+}
